@@ -1,0 +1,6 @@
+/* Your app styles here */
+@media screen and (orientation: portrait) {
+  html {
+    height: 100vh;
+  }
+}
